@@ -15,7 +15,10 @@ Visit [google.lk](https://google.lk)
 
 - [] To-do-1
 - [] To-do-2
-- 
+
+###Instructions to run the application
+`AppInitializer` to run the application
+
 ```java
 URL splashResource = this.getClass().getResource("/view/SecondForm.fxml");
         Parent splashContainer = FXMLLoader.load(splashResource);
@@ -26,6 +29,11 @@ URL splashResource = this.getClass().getResource("/view/SecondForm.fxml");
         stage.show();
         stage.centerOnScreen();
 
+```
+- one
+  - four
+
+![](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 
 
